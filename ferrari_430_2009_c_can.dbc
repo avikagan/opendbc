@@ -36,6 +36,13 @@ BS_:
 BU_:
 
 
+BO_ 1121 MM_TCU_461: 8 Vector__XXX
+
+BO_ 1120 MM_TCU_2: 8 Vector__XXX
+
+BO_ 1119 MM_TCU_1: 8 Vector__XXX
+ SG_ GearPosition : 8|16@1- (1,0) [0|0] "" Vector__XXX
+
 BO_ 1591 Bosch_ME7_6: 8 Vector__XXX
 
 BO_ 1423 Bosch_ME7_5: 8 Vector__XXX
@@ -49,7 +56,7 @@ BO_ 809 Bosch_ME7_2: 8 Vector__XXX
 BO_ 790 Bosch_ME7_1: 8 Vector__XXX
 
 BO_ 390 Bosch_ESP: 8 Vector__XXX
- SG_ Brake_MC_Press : 56|8@1- (1,0) [0|0] "bar" Vector__XXX
+ SG_ Brake_MC_Press : 48|8@1- (1,0) [0|0] "bar" Vector__XXX
 
 BO_ 1311 Bosch_ME7: 8 Vector__XXX
  SG_ Throttle_Position : 24|24@1+ (1,0) [0|0] "%" Vector__XXX
