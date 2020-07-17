@@ -59,7 +59,7 @@ BO_ 390 Bosch_ESP: 8 Vector__XXX
  SG_ Brake_MC_Press : 48|8@1- (1,0) [0|0] "bar" Vector__XXX
 
 BO_ 1311 Bosch_ME7: 8 Vector__XXX
- SG_ Throttle_Position : 24|24@1+ (1,0) [0|0] "%" Vector__XXX
+ SG_ Throttle_Position : 24|24@1+ (0.001525,0) [0|0] "%" Vector__XXX
 
 
 
